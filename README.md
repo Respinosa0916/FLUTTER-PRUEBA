@@ -2,6 +2,8 @@
 
 Clonar el repositorio
 
+git clone https://github.com/Respinosa0916/FLUTTER-PRUEBA.git
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
