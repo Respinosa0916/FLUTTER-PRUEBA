@@ -1,6 +1,6 @@
 # prueba1
 
-A new Flutter project.
+Clonar el repositorio
 
 ## Getting Started
 
